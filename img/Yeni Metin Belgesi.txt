@@ -1,0 +1,14 @@
+                            php
+                                if(@$_GET[i] == ekle){
+                                    echo span class='text-success'İşlem Başarılı!span;
+                                }elseif(@$_GET[i] == hata){
+                                    echo span class='text-danger'İşlemde Hata Oluştu!span;
+                                }
+                            
+                                                        php
+                                if(@$_GET[i] == sil){
+                                    echo span class='text-success'İşlem Başarılı!span;
+                                }elseif(@$_GET[i] == hata){
+                                    echo span class='text-danger' İşlemde Hata Oluştu!span;
+                                }
+                            
